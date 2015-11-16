@@ -1,0 +1,5 @@
+Pillow==3.0.0
+XlsxWriter==0.7.7
+numpy==1.10.1
+scipy==0.16.1
+wsgiref==0.1.2
