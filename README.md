@@ -9,6 +9,15 @@ It's pretty cool.
 MIT License.
 
 ## Screenshots
+
 ![png preview](images/results/nyan.png)
+
+(^ nyan cat)
+
 ![png preview](images/results/pusheen.png)
+
+(^ pusheen) 
+
 ![png preview](images/results/conner5.png)
+
+(^ conner 5 logo)
